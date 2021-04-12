@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning DL and its frameworks
 - 👯 I’m looking to connect with more people
 - 📫 How to reach me: [Gaurav Agrawal](mailto:gauravagrawal258@gmail.com)
-- 😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
+- 😄 Blog Posts: [Medium]
